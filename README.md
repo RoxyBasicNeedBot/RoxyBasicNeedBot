@@ -1,205 +1,332 @@
-<!-- Animated Header -->
+<!-- Animated Header with Custom Text -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=250&section=header&text=ROXY%20•%20BASICNEEDBOT&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20Intelligent%20Automation%20%7C%20Bot%20Architect&descAlignY=55&descSize=20&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=300&section=header&text=𝕽𝕺𝕏𝕐•𝔹𝕒𝕤𝕚𝕔%20ℕ𝕖𝕖𝕕%20𝔹𝕠𝕥%20⚡️&fontSize=45&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Bot%20Architect%20%7C%20Automation%20Engineer%20%7C%20Cloud%20Specialist&descAlignY=58&descSize=18&descAlign=50" width="100%"/>
 </div>
 
-<!-- Typing SVG -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Bot+Developer+%F0%9F%A4%96;Automation+Specialist+%E2%9A%A1;Cloud+Architecture+Expert+%E2%98%81%EF%B8%8F;Making+Bots+That+Matter+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=🤖+Building+Intelligent+Telegram+Bots;⚡+Automation+%26+Cloud+Infrastructure+Expert;🚀+Turning+Complex+Ideas+Into+Simple+Solutions;💡+Open+Source+Contributor+%26+Bot+Enthusiast" alt="Typing SVG" />
 </p>
 
-<!-- Profile Views & Badges with Animation -->
+<!-- Profile Stats Bar -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=roxybasicneedbot&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/roxybasicneedbot?label=Followers&style=for-the-badge&color=0e75b6" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/roxybasicneedbot?label=Stars&style=for-the-badge&color=0e75b6" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=roxybasicneedbot&label=Profile%20Views&color=000000&style=for-the-badge&labelColor=1a1a1a" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/roxybasicneedbot?label=Followers&style=for-the-badge&color=000000&labelColor=1a1a1a&logo=github" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/roxybasicneedbot?label=Total%20Stars&style=for-the-badge&color=000000&labelColor=1a1a1a&logo=github" alt="stars"/>
 </p>
 
-<!-- Animated Divider -->
+<!-- Sleek Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- About Section with GIF -->
-<div align="center">
-  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-  
-## 🎯 **About Me**
+<br/>
 
-</div>
+<!-- About Section with Side GIF -->
+<table align="center">
+<tr>
+<td width="50%" align="left">
 
-```python
-class RoxyBasicNeedBot:
-    def __init__(self):
-        self.username = "Roxy BasicNeedBot"
-        self.role = "Bot Architect & Automation Engineer"
-        self.code = ["Python", "JavaScript", "Shell"]
-        self.technologies = {
-            "bots": ["Telegram", "Discord", "Automation"],
-            "backend": ["Node.js", "APIs", "WebSockets"],
-            "database": ["MongoDB", "MySQL", "Firebase"],
-            "cloud": ["AWS", "Heroku", "Docker"],
-            "tools": ["Git", "Linux", "CI/CD"]
-        }
-        self.current_mission = "Building intelligent solutions"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+## 💫 **About Me**
 
-me = RoxyBasicNeedBot()
-me.say_hi()
-```
+🎯 **Professional Bot Developer** specializing in Telegram automation and intelligent bot systems
 
-**🔥 What I Do:**
-- 🤖 Design & Deploy **Production-Ready Telegram Bots**
-- ⚡ Build **Scalable Automation Systems**
-- 🌐 Integrate **Complex APIs & Third-Party Services**
-- ☁️ Architect **Cloud-Native Solutions**
-- 🔧 Optimize **Performance & Reliability**
+🔧 **Core Expertise:**
+- Building scalable Telegram bots with advanced features
+- API integration and third-party service connections
+- Cloud deployment and infrastructure management
+- Database design and optimization
+- Automation workflows and scripting
 
-<br clear="right"/>
+⚡ **Current Focus:**
+- Developing production-ready bot solutions
+- Exploring AI/ML integration in bot systems
+- Optimizing cloud architectures for better performance
+- Contributing to open-source bot frameworks
 
-<!-- Animated Divider -->
+🌟 **Philosophy:**
+> *"Automation isn't about replacing humans—it's about empowering them to focus on what truly matters."*
+
+📫 **Available for:** Freelance Projects | Collaborations | Bot Consultations
+
+</td>
+<td width="50%" align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380"/>
+  <br/><br/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="380"/>
+</td>
+</tr>
+</table>
+
+<!-- Sleek Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Tech Stack with Icons -->
-## 🛠️ **Technology Arsenal**
+<br/>
+
+## 🛠️ **Tech Stack & Expertise**
 
 <div align="center">
 
-### **Languages & Frameworks**
+### **💻 Programming Languages**
 <p>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=000000" />
 </p>
 
-### **Databases & Storage**
+### **🤖 Bot Development**
 <p>
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,redis,postgresql" />
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Pyrogram-3776AB?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Telethon-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" />
 </p>
 
-### **Cloud & DevOps**
+### **🗄️ Databases**
 <p>
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=heroku,linux,git,github" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=000000" />
 </p>
 
-### **Tools & Platforms**
+### **☁️ Cloud & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,npm,bash" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
+</p>
+
+### **🔧 Tools & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=000000" />
 </p>
 
 </div>
 
-<!-- Animated Divider -->
+<!-- Sleek Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- GitHub Stats with Animations -->
-## 📊 **GitHub Analytics**
+<br/>
+
+## 📊 **GitHub Statistics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roxybasicneedbot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&rank_icon=github" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roxybasicneedbot&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=79c0ff&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" height="180"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=roxybasicneedbot&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&border_radius=10" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=roxybasicneedbot&theme=radical&hide_border=true&background=000000&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&border_radius=10" />
 </div>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roxybasicneedbot&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180"/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=roxybasicneedbot&limit=5&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&ring_color=79c0ff&combine_all_yearly_contributions=true" height="180"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=roxybasicneedbot&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=ffffff&border_radius=10&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=roxybasicneedbot&bg_color=000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&border_radius=10&height=300" />
 </div>
 
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roxybasicneedbot&bg_color=0d1117&color=58a6ff&line=79c0ff&point=c9d1d9&area=true&hide_border=true" width="95%"/>
-</div>
-
-<!-- Animated Divider -->
+<!-- Sleek Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Contribution Snake -->
-## 🐍 **Contribution Snake**
+<br/>
+
+## 🏆 **Achievements & Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=roxybasicneedbot&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
+</div>
+
+<!-- Sleek Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🐍 **Contribution Graph**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<!-- Animated Divider -->
+<!-- Sleek Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Trophies -->
-## 🏆 **GitHub Trophies**
+<br/>
+
+## 📈 **Contribution Metrics**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roxybasicneedbot&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=roxybasicneedbot&theme=radical&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=ffffff&layout=compact&border_radius=10" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=roxybasicneedbot&theme=radical&utcOffset=5.5" width="49%" />
 </div>
 
-<!-- Animated Divider -->
+<!-- Sleek Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Connect Section with Animation -->
-## 🤝 **Let's Connect**
+<br/>
+
+## 💼 **Featured Projects**
+
+<div align="center">
+
+<a href="https://github.com/roxybasicneedbot/repo1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roxybasicneedbot&repo=repo1&theme=radical&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_radius=10" width="48%" />
+</a>
+<a href="https://github.com/roxybasicneedbot/repo2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roxybasicneedbot&repo=repo2&theme=radical&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_radius=10" width="48%" />
+</a>
+
+</div>
+
+<p align="center"><i>Replace repo1 and repo2 with your actual repository names</i></p>
+
+<!-- Sleek Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🎯 **Current Streak**
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roxybasicneedbot&theme=dark&hide_border=true&background=000000&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=ffffff&border_radius=10" width="70%" />
+</div>
+
+<!-- Sleek Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 💭 **Developer Quote**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
+</div>
+
+<!-- Sleek Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🤝 **Connect With Me**
 
 <div align="center">
 
 <a href="https://t.me/roxybasicneedbot1">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&animated=true" />
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" />
 </a>
 <a href="https://github.com/RoxyBasicNeedBot">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
 </a>
 
-**💬 Always open to interesting projects and collaboration opportunities!**
+<br/><br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
+
+**💬 Open to collaborations, freelance projects, and interesting bot ideas!**
+
+**📧 Feel free to reach out for consultations or project discussions**
 
 </div>
 
-<!-- Animated Divider -->
+<!-- Sleek Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Support Section with GIF -->
+<br/>
+
 ## ☕ **Support My Work**
 
 <div align="center">
-  
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80">
+
+<br/>
+
+**If you find my work helpful, consider buying me a coffee!**
+
+<br/>
 
 <a href="https://www.buymeacoffee.com/roxybasicneedbot">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=000000" />
 </a>
 
+<br/><br/>
+
+*Your support helps me create more amazing bots and tools! ☕💙*
+
 </div>
 
-<!-- Animated Divider -->
+<!-- Sleek Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Random Dev Quote -->
+<br/>
+
+## ⚡ **Fun Facts**
+
 <div align="center">
-  
-## 💭 **Random Dev Quote**
-  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
+<br/>
+<b>🌙 Night Owl Developer</b>
+<br/>
+<i>Best code written at 2 AM</i>
+</td>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+<br/>
+<b>☕ Coffee Enthusiast</b>
+<br/>
+<i>Code + Coffee = Magic</i>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
+<br/>
+<b>🤖 Bot Obsessed</b>
+<br/>
+<i>Always thinking of the next bot idea</i>
+</td>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+<br/>
+<b>🚀 Open Source Fan</b>
+<br/>
+<i>Sharing is caring</i>
+</td>
+</tr>
+</table>
 
 </div>
 
-<!-- Animated Divider -->
+<!-- Sleek Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Fun Fact Section with GIF -->
+<br/>
+
+<!-- Footer Wave -->
 <div align="center">
-
-## ⚡ **Fun Fact**
-
-<img align="center" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
-
-**"I turn coffee into code and bugs into features! ☕➡️💻"**
-
-</div>
-
-<!-- Footer with Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=150&section=footer" width="100%"/>
   
-  <img src="https://komarev.com/ghpvc/?username=roxybasicneedbot&style=flat-square&color=58a6ff" />
+  <br/>
   
-  **⭐️ From [RoxyBasicNeedBot](https://github.com/RoxyBasicNeedBot) with 💙**
+  <img src="https://komarev.com/ghpvc/?username=roxybasicneedbot&style=for-the-badge&color=58a6ff&labelColor=000000" />
+  
+  <br/><br/>
+  
+  **⭐️ Made with 💙 by [𝕽𝕺𝕏𝕐•𝔹𝕒𝕤𝕚𝕔 ℕ𝕖𝕖𝕕 𝔹𝕠𝕥](https://github.com/RoxyBasicNeedBot)**
+  
+  <br/>
+  
+  *"Building bots that make a difference, one line of code at a time."*
+  
 </div>
