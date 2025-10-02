@@ -19,31 +19,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- About Me Section with GOT/Witcher Theme -->
+<!-- About Me Section -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFD700&center=true&vCenter=true&width=400&lines=About+Me+⚔️" alt="About Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFD700&center=true&vCenter=true&width=400&lines=About+Me" alt="About Header" />
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdzNXRvdmUwN3c3N3czaHJzZ2N1azBzYW93ZnN2OWRqNmZ3YXdzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlFPNXXgV1LUsX6/giphy.gif" width="100%"/>
-        <br/>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Winter+is+Coming...+But+My+Code+is+Hot+🔥;A+Bot+Developer+Always+Deploys+His+Bots;The+Night+is+Dark+and+Full+of+Bugs" alt="GOT Quote" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHN0YnljdHJhd2NxcnQ1dWhjdGxoZGNxdnBuN2RhcWMyZGJ3Y2RqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fV0oSDsZ4UgdW/giphy.gif" width="100%"/>
-        <br/>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Toss+a+Coin+to+Your+Developer+💰;Hmm...+Let's+Debug+This;The+Witcher+of+Web+Development" alt="Witcher Quote" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
 
 <div align="center">
   
@@ -57,28 +38,22 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120">
-        <br/>
+        <img src="https://techstack-generator.vercel.app/telegram-icon.svg" width="80" height="80" alt="Telegram"/>
+        <br/><br/>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=200&lines=🤖+Bot+Master;Telegram+Expert" alt="Bot" />
       </td>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120">
-        <br/>
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" alt="React"/>
+        <br/><br/>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=200&lines=🌐+Web+Wizard;Full+Stack+Pro" alt="Web" />
       </td>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="120">
-        <br/>
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="80" height="80" alt="API"/>
+        <br/><br/>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=200&lines=⚡+API+Ninja;Integration+Guru" alt="API" />
       </td>
     </tr>
   </table>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500"/>
 </div>
 
 <br/>
@@ -95,39 +70,75 @@
 
 <div align="center">
 
-### ⚔️ **Telegram Bot Development**
+### ⚔️ **Languages & Core**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+</p>
+
+### 🤖 **Telegram Bot Development**
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/badge/Pyrogram-3776AB?style=for-the-badge&logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/badge/Telethon-2CA5E0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/aiogram-00ADD8?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
 
 ### 🌐 **Web Development**
 <p>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ### 🗄️ **Database & Backend**
 <p>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ### 🔧 **Tools & Platforms**
 <p>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="Raspberry Pi" width="65" height="65" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+### 🎨 **Design & UI/UX**
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 </div>
@@ -181,21 +192,42 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250"/>
-<br/><br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=🤖+Telegram+Bots;Custom+Automation;API+Integration;Database+Management)
+### 🤖 **Telegram Bot Development**
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=Custom+Automation+Solutions;API+Integration+%26+Webhooks;Database+Management;User+Authentication;Payment+Gateway+Integration;Admin+Panels+%26+Analytics)
 
 </td>
 <td align="center" width="50%">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
-<br/><br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=🌐+Web+Development;Full+Stack+Apps;Responsive+Design;Modern+UI%2FUX)
+### 🌐 **Web Development**
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=Full+Stack+Applications;Responsive+Web+Design;REST+API+Development;Database+Architecture;Cloud+Deployment;Modern+UI%2FUX+Design)
 
 </td>
 </tr>
 </table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 Featured Skills
+
+<div align="center">
+
+```python
+roxy = {
+    "telegram_bots": ["Pyrogram", "Telethon", "aiogram", "python-telegram-bot"],
+    "web_frontend": ["React", "Next.js", "JavaScript", "HTML5", "CSS3", "Tailwind"],
+    "web_backend": ["Node.js", "Express", "Python", "FastAPI", "Flask"],
+    "databases": ["MongoDB", "MySQL", "PostgreSQL", "Redis", "SQLite"],
+    "api_integration": ["REST", "GraphQL", "Webhooks", "OAuth2.0"],
+    "cloud_platforms": ["AWS", "Heroku", "Vercel", "DigitalOcean"],
+    "tools": ["Git", "Docker", "Linux", "VS Code", "Postman"],
+    "currently_learning": ["Kubernetes", "Microservices", "AI/ML Integration"]
+}
+```
 
 </div>
 
@@ -238,10 +270,10 @@
   
   <br/>
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzQ2NXlwaWgxdDRqNXo3dHdwd3FhZ3o2bzNqZ3FoYnBkdHh1Y2FsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeuOy2Fcl9vDGiA/giphy.gif" width="80"/>
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=⭐+Made+with+💙+by+ROXY;Building+bots+%26+web+solutions;One+commit+at+a+time+✨)
   
   <br/>
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=⭐+Made+with+💙+by+ROXY;Building+bots+%26+web+solutions;One+commit+at+a+time+✨;Valar+Morghulis+⚔️)
+  ### Show some ❤️ by starring some of my repositories!
   
 </div>
