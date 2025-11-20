@@ -1,12 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=ROXY&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Bot%20Developer%20%7C%20Python%20Master%20%7C%20Web%20Wizard&descAlignY=55&descSize=25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=ROXY&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Bot%20Developer%20%7C%20Python%20Expert&descAlignY=55&descSize=25" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
+  <h1 style="font-size: 50px;">𝕽𝕺𝕏𝕐•𝔹𝕒𝕤𝕚𝕔ℕ𝕖𝕖𝕕𝔹𝕠𝕥 ⚡️</h1>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=500&color=A965FF&center=true&vCenter=true&width=900&lines=🤖+Building+Telegram+Super+Bots;⚡+Automating+The+Boring+Stuff;🐍+Python+Backend+Specialist;💎+Crafting+Digital+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=A965FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I’m+Bot+%26+Website+Developer;🤖+Creator+of+RoxyBasicNeedBot;⚡+Skilled+in+Python,+APIs,+and+Web+Dev;🚀+Building+Automation+Tools" alt="Typing SVG" />
   </a>
+
+  <br/>
+  <b>👋 Hi, I’m – Bot & Website Developer. <br/>
+  🤖 Creator of RoxyBasicNeedBot & many automation tools. <br/>
+  ⚡ Skilled in Python, APIs, and Web Development.</b>
+  <br/><br/>
+
 </div>
 
 <p align="center">
@@ -20,10 +29,6 @@
 </div>
 
 <div align="center">
-  <h2>⚡ About Me</h2>
-</div>
-
-<div align="center">
   <table>
     <tr>
       <td width="50%" align="center">
@@ -33,13 +38,12 @@
       <td width="50%">
         <h3>👨‍💻 The Code Weaver</h3>
         <p>
-          I am a passionate developer who turns coffee into code. My specialty lies in creating <b>advanced Telegram Bots</b> and <b>High-Performance Python Scripts</b>.
+         I specialize in turning complex ideas into working code. From <b>Telegram Bots</b> to <b>Web Automation</b>, I build tools that work efficiently.
         </p>
         <p>
-          🔭 <b>Currently working on:</b> Next-Gen Bot APIs<br>
-          🌱 <b>Learning:</b> AI Integration & Cloud Scaling<br>
-          💬 <b>Ask me about:</b> Pyrogram, MongoDB, Automation<br>
-          ⚡ <b>Fun fact:</b> I automate everything I do more than twice.
+          🔭 <b>Currently working on:</b> <a href="https://github.com/roxybasicneedbot">RoxyBasicNeedBot</a><br>
+          🌱 <b>Stack:</b> Python, MongoDB, Pyrogram<br>
+          ⚡ <b>Passion:</b> Automating the boring stuff.
         </p>
          <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200px">
       </td>
@@ -111,8 +115,8 @@
   <a href="https://t.me/roxybasicneedbot1">
     <img src="https://img.shields.io/badge/Telegram-Click%20to%20Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1b27" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
+  <a href="https://github.com/roxybasicneedbot">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
   </a>
 </div>
 
