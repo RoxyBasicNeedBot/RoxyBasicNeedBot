@@ -15,11 +15,11 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
 
 ## 🎯 About Me
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" width="350" src="https://i.ibb.co/0yBxWfpp/file-29671.jpg" style="border-radius: 10px;">
 
 **Full-Stack Bot Developer**
 
@@ -30,7 +30,7 @@
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
@@ -50,23 +50,62 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
 
-## 📊 GitHub Stats
+## 💼 What I Do
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=roxybasicneedbot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=EC4899&text_color=c9d1d9)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=roxybasicneedbot&theme=tokyonight&hide_border=true&background=0d1117&stroke=8B5CF6&ring=EC4899&fire=8B5CF6&currStreakLabel=EC4899)
-
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=roxybasicneedbot&custom_title=Contribution%20Graph&bg_color=0d1117&color=8B5CF6&line=EC4899&point=ffffff&area=true&hide_border=true)
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRxbWt2bTJ6dXRnNDZ6aXN3ZGZyYnJrczNua2Q3dnVndThpaG1sZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
+<br/><b>Telegram Bots</b>
+<br/>Auto-Filter • Management
+</td>
+<td width="33%" align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150"/>
+<br/><b>Web Development</b>
+<br/>APIs • Dashboards
+</td>
+<td width="33%" align="center">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="150"/>
+<br/><b>Automation</b>
+<br/>Scripts • Workflows
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=roxybasicneedbot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=EC4899&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=roxybasicneedbot&theme=tokyonight&hide_border=true&background=0d1117&stroke=8B5CF6&ring=EC4899&fire=8B5CF6&currStreakLabel=EC4899" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=roxybasicneedbot&custom_title=Contribution%20Graph&bg_color=0d1117&color=8B5CF6&line=EC4899&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=roxybasicneedbot&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" width="100%" />
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
 
 ## 🌐 Connect
 
@@ -78,6 +117,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-@roxybasicneedbot-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a2e)](https://www.youtube.com/@roxybasicneedbot)
 
 [![Instagram](https://img.shields.io/badge/Instagram-@roxybasicneedbot1-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e)](https://instagram.com/roxybasicneedbot1)
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=roxybasicneedbot&label=Views&color=8B5CF6&style=flat)
 
