@@ -1,181 +1,135 @@
 <div align="center">
-
-# 𝕽𝕺𝕏𝕐•𝔹𝕒𝕤𝕚𝕔ℕ𝕖𝕖𝕕𝔹𝕠𝕥 ⚡️
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=RoxyBasicNeedBot;Bot+%26+Website+Developer;Automation+Expert;Python+%7C+APIs+%7C+Web+Dev" alt="Typing SVG" />
-
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300"/>
-
-### RoxyBasicNeedBot · he/him
-
-👋 **Hi, I'm – Bot & Website Developer.**  
-🤖 Creator of Roxy BasicNeedBot & many automation tools.  
-⚡ Skilled in Python, APIs, and Web Development.
-
----
-
-## 🌍 Connect With Me
-
-📍 **Location:** IN  
-🌐 [**Website**](https://roxybasicneedbot.unaux.com/?i=1)  
-✈️ [**Telegram**](https://t.me/roxybasicneedbot1)  
-💬 [**Aratt AI**](https://aratt.ai/@roxybasicneedbot)  
-👤 **@roxybasicneedbot**
-
----
-
-## 📊 GitHub Statistics
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=200&section=header&text=RoxyBasicNeed&fontSize=70&fontColor=fff&animation=fadeIn" width="100%"/>
+</div>
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roxybasicneedbot&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Bot+Developer+%7C+Python+Expert;Building+Telegram+Automation;Always+Coding+Something+Cool" alt="Typing SVG" />
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roxybasicneedbot&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roxybasicneedbot&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF)
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Bot%20Development-8B5CF6?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Status-Available-EC4899?style=for-the-badge&labelColor=1a1a2e" />
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+
+## 🎯 About Me
+
+<img align="right" width="350" src="https://i.ibb.co/0yBxWfpp/file-29671.jpg" style="border-radius: 10px;">
+
+**Full-Stack Bot Developer**
+
+- 🤖 Building intelligent Telegram bots
+- 🐍 Python automation specialist
+- ⚡ Open for collaborations
+- 💡 "Automate Everything"
+
+<br clear="right"/>
+
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a2e)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a2e)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a2e)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a2e)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=1a1a2e)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a2e)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e)
 
 </div>
 
----
+<br/>
 
-## 🏆 GitHub Trophies
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+
+## 💼 What I Do
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=roxybasicneedbot&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRxbWt2bTJ6dXRnNDZ6aXN3ZGZyYnJrczNua2Q3dnVndThpaG1sZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
+<br/><b>Telegram Bots</b>
+<br/>Auto-Filter • Management
+</td>
+<td width="33%" align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150"/>
+<br/><b>Web Development</b>
+<br/>APIs • Dashboards
+</td>
+<td width="33%" align="center">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="150"/>
+<br/><b>Automation</b>
+<br/>Scripts • Workflows
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
-## 📈 Contribution Graph
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roxybasicneedbot&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=roxybasicneedbot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=EC4899&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=roxybasicneedbot&theme=tokyonight&hide_border=true&background=0d1117&stroke=8B5CF6&ring=EC4899&fire=8B5CF6&currStreakLabel=EC4899" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=roxybasicneedbot&custom_title=Contribution%20Graph&bg_color=0d1117&color=8B5CF6&line=EC4899&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
----
+<br/>
 
-## 💻 Tech Stack & Skills
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=roxybasicneedbot&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" width="100%" />
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+
+## 🌐 Connect
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![Website](https://img.shields.io/badge/🌐_Website-Visit-8B5CF6?style=for-the-badge&labelColor=1a1a2e)](https://roxybasicneedbot.unaux.com/?i=1)
 
-### Frameworks & Libraries
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-@roxybasicneedbot1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a2e)](https://t.me/roxybasicneedbot1)
+[![YouTube](https://img.shields.io/badge/YouTube-@roxybasicneedbot-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a2e)](https://www.youtube.com/@roxybasicneedbot)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-@roxybasicneedbot1-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e)](https://instagram.com/roxybasicneedbot1)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=roxybasicneedbot&label=Views&color=8B5CF6&style=flat)
 
 </div>
 
----
-
-## 🎯 What I Do
+<br/>
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=100&section=footer" width="100%"/>
 </div>
 
-- 🤖 **Bot Development:** Creating intelligent Telegram bots with advanced automation features
-- 🌐 **Web Development:** Building responsive and dynamic websites
-- 🔧 **API Integration:** Seamless integration with various third-party services
-- ⚡ **Automation Tools:** Developing scripts and tools to streamline workflows
-- 📊 **Data Processing:** Working with APIs and data manipulation
-
----
-
-## 📫 How to Reach Me
-
 <div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/roxybasicneedbot1)
-[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://roxybasicneedbot.unaux.com/?i=1)
-[![Aratt AI](https://img.shields.io/badge/Aratt_AI-6C63FF?style=for-the-badge&logo=ai&logoColor=white)](https://aratt.ai/@roxybasicneedbot)
-
-</div>
-
----
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Python       12 hrs 30 mins  ████████████░░░░░   55.2%
-JavaScript   4 hrs 15 mins   ████░░░░░░░░░░░░░   18.8%
-HTML/CSS     3 hrs 20 mins   ███░░░░░░░░░░░░░░   14.7%
-JSON         1 hr 30 mins    █░░░░░░░░░░░░░░░░    6.6%
-Other        1 hr 5 mins     █░░░░░░░░░░░░░░░░    4.7%
-```
-<!--END_SECTION:waka-->
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=roxybasicneedbot&color=6C63FF&style=for-the-badge)
-
-</div>
-
----
-
-## 🎨 Animated Banner
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=RoxyBasicNeedBot&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/roxybasicneedbot/roxybasicneedbot/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Let's Build Something Amazing Together!
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
-
-**Thanks for visiting my profile!** ⚡️
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
+  <sub>⚡ Powered by Python & Coffee</sub>
 </div>
