@@ -1,67 +1,51 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Roxy&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Android%20Dev%20%E2%80%A2%20Bot%20Builder%20%E2%80%A2%20Python%20Hacker&descSize=16&descAlignY=62&descColor=ccc" width="100%"/>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hey+I'm+Roxy+👋;Android+Developer;Telegram+Bot+Builder;Python+Specialist;Automate+Everything" alt="Typing SVG" />
 
-  <br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+Telegram+bots+with+Pyrogram+🤖;Crafting+Android+apps+in+Kotlin+📱;Automating+everything+with+Python+⚡;Open+to+collabs+%26+cool+ideas+💜)](https://git.io/typing-svg)
 
-  <a href="https://roxybasicneedbot.unaux.com/?i=1">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=8B5CF6" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/roxybasicneedbot1">
-    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@roxybasicneedbot">
-    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/roxybasicneedbot1">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-  </a>
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/Focus-Android_%26_Bot_Dev-0d1117?style=for-the-badge&color=8B5CF6" />
-  <img src="https://img.shields.io/badge/Status-Available-0d1117?style=for-the-badge&color=EC4899" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
-</div>
+---
 
 <div align="center">
-  <h3>🤖 About Me</h3>
-  <p>Building intelligent Telegram bots • Android apps with Kotlin & Jetpack Compose • Python automation • Open to collabs</p>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=py,kotlin,js,html,css,mongo,docker,git,github,androidstudio,vscode,linux&theme=dark" alt="Tech Stack" />
+
+[![Website](https://img.shields.io/badge/Website-%238B5CF6.svg?style=flat-square&logo=googlechrome&logoColor=white)](https://roxybasicneedbot.unaux.com/?i=1)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=flat-square&logo=telegram&logoColor=white)](https://t.me/roxybasicneedbot1)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@roxybasicneedbot)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/roxybasicneedbot1)
+
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
-</div>
+---
+
+### 🛠 Stack
 
 <div align="center">
-  <h3>📊 Analytics</h3>
-  <br/>
-  <a href="https://github.com/roxybasicneedbot">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/roxybasicneedbot?cardType=level&theme=material-palenight&preferLogin=false&Border=FFFFFF00&Background=FFFFFF00" height="165" alt="GitHub Stats"/>
-  </a>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roxybasicneedbot&theme=tokyonight&hide_border=true&background=0d1117&stroke=8B5CF6&ring=EC4899&fire=8B5CF6&currStreakLabel=EC4899" height="165" alt="Streak Stats"/>
+<img src="https://skillicons.dev/icons?i=py,kotlin,js,mongo,docker,git,linux,vscode,androidstudio&theme=dark&perline=9" />
+</div>
+
+---
+
+### 📊 Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roxybasicneedbot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=EC4899&text_color=c9d1d9&rank_icon=github&hide=stars" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=roxybasicneedbot&theme=tokyonight&hide_border=true&background=0d1117&stroke=8B5CF6&ring=EC4899&fire=8B5CF6&currStreakLabel=EC4899&sideNums=c9d1d9&sideLabels=c9d1d9&dates=555" height="160"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxybasicneedbot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" height="140" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roxybasicneedbot&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8B5CF6&line=EC4899&point=ffffff&area=true&area_color=8B5CF6" width="92%"/>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
-</div>
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=roxybasicneedbot&label=Profile+Views&color=8B5CF6&style=for-the-badge&abbreviated=true" />
+  <img src="https://komarev.com/ghpvc/?username=roxybasicneedbot&color=8B5CF6&style=flat-square&label=views" />
   <br/><br/>
-  <sub>⚡ Powered by Python, Kotlin & Coffee &nbsp;•&nbsp; CC BY-NC-ND</sub>
+  <sub>⚡ python + kotlin + coffee</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
