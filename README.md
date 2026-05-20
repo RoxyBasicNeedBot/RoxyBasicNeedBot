@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/Mmv1kbR/x.jpg" width="600" style="border-radius: 20px; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);" alt="Roxy Banner"/>
+  <img src="https://i.ibb.co/Mmv1kbR/x.jpg" width="800" style="border-radius: 22%" alt="Roxy Banner"/>
 
   <p>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="45" height="45" alt="Python"/>
