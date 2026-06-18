@@ -33,6 +33,7 @@ Building Android apps and Telegram bots, mostly in Kotlin and Python — current
 | 4 | [**Zip-Maker-Bot**](https://github.com/RoxyBasicNeedBot/Zip-Maker-Bot-Zip-Creater-Bot) | 🚀 Compress, organize & secure your files. Upload docs, media or folders and get a compiled .zip instantly. Supports passwords & custom thumbnails. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ⭐ 22 |
 | 5 | [**Telegram-Bot-List**](https://github.com/RoxyBasicNeedBot/Telegram-Bot-List) | 📋 A curated list of useful Telegram bots made by RoxyBasicNeedBot — updated regularly. | — | ⭐ 27 |
 | 6 | [**Telegram-ID-User-Info-Bot**](https://github.com/RoxyBasicNeedBot/Telegram-ID-User-Info-Quick-ID-Bot) | ⚡️ A Telegram bot to instantly fetch your User ID, Username, and Account Info. Fast, lightweight, easy to use. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ⭐ 20 |
+| 7 | [**KDownloader**](https://github.com/RoxyBasicNeedBot/KDownloader) | ⚡ A modern Kotlin-first cross-platform download engine. Multi-chunk parallel downloading, dynamic chunk splitting, mirror support, speed throttling, WorkManager persistence & Compose-ready UI. | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | ⭐ 1 |
 
 ---
 
