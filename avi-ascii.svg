@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 389 399" width="100%" height="100%">
   <style>
-    rect.bg { fill: #0d1117; }
-    text.ascii { font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace; font-size: 7px; fill: #c9d1d9; white-space: pre; }
-    rect.cursor { fill: #a855f7; }
+    rect.bg { fill: #0d111b; stroke: #2e274a; stroke-width: 1.5; }
+    text.ascii { font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace; font-size: 7.2px; fill: #e2e8f0; white-space: pre; }
+    rect.cursor {{ fill: #06b6d4; }}
   </style>
-  <rect class="bg" width="389" height="399" rx="6" />
+  <rect class="bg" width="389" height="399" rx="14" />
   <defs>
     <clipPath id="clip-0">
       <rect x="10" y="7.5" width="0" height="10">

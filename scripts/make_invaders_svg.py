@@ -26,12 +26,12 @@ LEVEL_GLOW = {
     4: "#69f0a0",
 }
 
-SHIP_COLOR   = "#58a6ff"
-BULLET_COLOR = "#f0883e"
-EXPL_COLOR   = "#ff9f43"
-BG_COLOR     = "#0d1117"
-PANEL_COLOR  = "#161b22"
-BORDER_COLOR = "#21262d"
+SHIP_COLOR   = "#06b6d4"
+BULLET_COLOR = "#ec4899"
+EXPL_COLOR   = "#a855f7"
+BG_COLOR     = "#0c0e18"
+PANEL_COLOR  = "#140f28"
+BORDER_COLOR = "#2b2246"
 
 # ── Grid geometry ──────────────────────────────────────────────────────────
 CELL      = 10    # px per cell square

@@ -4,10 +4,10 @@
 
 <br/>
 
-<!-- Quick Connect & Socials -->
+<!-- Social Connect Badges -->
 <p align="center">
   <a href="https://t.me/roxybasicneedbot1" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="28" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="28" alt="Telegram Channel"/>
   </a>
   &nbsp;
   <a href="https://youtube.com/@roxybasicneedbot" target="_blank">
@@ -21,6 +21,22 @@
   <a href="https://instagram.com/roxybasicneedbot1" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="Instagram"/>
   </a>
+</p>
+
+<!-- Quick Navigation Bar -->
+<p align="center">
+  🤖 <b>Telegram Fleet:</b>
+  <a href="https://github.com/RoxyBasicNeedBot/TXT-TO-VIDEO-LEECH-UPLOADER"><b>Txt-To-Video</b></a> •
+  <a href="https://github.com/RoxyBasicNeedBot/File-Rename-4GB-Bot-Auto-Rename-Bot"><b>4GB Rename Bot</b></a> •
+  <a href="https://github.com/RoxyBasicNeedBot/Zip-Maker-Bot-Zip-Creater-Bot"><b>Zip Maker Bot</b></a> •
+  <a href="https://github.com/RoxyBasicNeedBot/PDF-TOOL-BOT"><b>PDF Assistant</b></a> •
+  <a href="https://github.com/RoxyBasicNeedBot/Telegram-ID-User-Info-Quick-ID-Bot"><b>Quick ID Bot</b></a>
+  <br/>
+  📱 <b>Android & Kotlin:</b>
+  <a href="https://github.com/RoxyBasicNeedBot/Flare"><b>Flare Alerts</b></a> •
+  <a href="https://github.com/RoxyBasicNeedBot/KDownloader"><b>KDownloader Engine</b></a> •
+  <a href="https://github.com/RoxyBasicNeedBot/Vivx"><b>Vivx Compose DSL</b></a> •
+  <a href="https://github.com/RoxyBasicNeedBot/PDF-Toolkit"><b>Android PDF Toolkit</b></a>
 </p>
 
 <br/>
@@ -42,15 +58,15 @@
 
 ### `roxy@github ~ $ cat tech-stack.sh`
 
-<img src="./skills.svg" width="860" alt="Tech Stack" />
+<img src="./skills.svg" width="860" alt="Tech Stack Architecture" />
 
 <br/>
 
 ---
 
-### `roxy@github ~ $ gh api stats`
+### `roxy@github ~ $ gh api live-metrics --hud`
 
-<img src="./stats-card.svg" width="860" alt="GitHub Stats" />
+<img src="./stats-card.svg" width="860" alt="GitHub Live Stats" />
 
 <br/>
 
@@ -64,7 +80,7 @@
 
 ### `roxy@github ~ $ ./showcase_projects.sh`
 
-<img src="./repo-showcase.svg" width="860" alt="Featured Projects" />
+<img src="./repo-showcase.svg" width="860" alt="Featured Repositories (Fleet & Android)" />
 
 <br/>
 
@@ -72,7 +88,7 @@
 
 ### `roxy@github ~ $ ./matrix.sh`
 
-<img src="./matrix-rain.svg" width="860" alt="Matrix Code Rain — Real Repos As Rain Columns" />
+<img src="./matrix-rain.svg" width="860" alt="Cyberpunk Matrix Rain — Real Repos As Rain Columns" />
 
 <br/>
 
@@ -98,6 +114,6 @@
   <img src="https://komarev.com/ghpvc/?username=roxybasicneedbot&style=for-the-badge&abbreviated=true&color=8B5CF6" alt="Profile Views"/>
 </p>
 
-<sub>⚡ Crafted with dynamic SVG generators • Auto-updating via GitHub Actions • © 2026 RoxyBasicNeedBot</sub>
+<sub>⚡ Designed with Dynamic SVG Generators • Self-Updating via GitHub Actions • © 2026 RoxyBasicNeedBot</sub>
 
 </div>

@@ -1,106 +1,146 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 185" width="860" height="185">
-  <rect width="860" height="185" rx="12" fill="#0d111a" stroke="#2e274a" stroke-width="1.5" />
-  <rect x="0" y="0" width="860" height="38" rx="12" fill="#140f28" />
-  <rect x="0" y="28" width="860" height="10" fill="#140f28" />
-  <rect x="0" y="37" width="860" height="1" fill="#382a5c" />
-  <circle cx="20" cy="16" r="5" fill="#ff5f56" />
-  <circle cx="38" cy="16" r="5" fill="#ffbd2e" />
-  <circle cx="56" cy="16" r="5" fill="#27c93f" />
-  <text x="78" y="21" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#a5b4fc">roxy@terminal: github stats --user=RoxyBasicNeedBot</text>
-  <rect x="14" y="50" width="131" height="94" rx="8" fill="#140f28" stroke="#312554" stroke-width="1" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.12s" fill="freeze" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 200" width="860" height="200">
+  <rect width="860" height="200" rx="14" fill="#0c0e18" stroke="#2b2246" stroke-width="1.5" />
+  <rect x="0" y="0" width="860" height="40" rx="14" fill="#140f28" />
+  <rect x="0" y="30" width="860" height="10" fill="#140f28" />
+  <rect x="0" y="39" width="860" height="1" fill="#382a5c" />
+  <circle cx="20" cy="18" r="5.5" fill="#ff5f56" />
+  <circle cx="38" cy="18" r="5.5" fill="#ffbd2e" />
+  <circle cx="56" cy="18" r="5.5" fill="#27c93f" />
+  <text x="78" y="23" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#c084fc">roxy@terminal: github-live-metrics --dashboard</text>
+  <circle cx="750" cy="20" r="4" fill="#34d399">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite" />
+  </circle>
+  <text x="760" y="23" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" font-weight="700" fill="#38bdf8">LIVE STATUS: NOMINAL</text>
+  <rect x="14" y="54" width="129" height="104" rx="10" fill="#130f26" stroke="#2a1f47" stroke-width="1.2" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.1s" fill="freeze" />
   </rect>
-  <rect x="15" y="51" width="129" height="3" rx="2" fill="#fbbf24" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.12s" fill="freeze" />
+  <rect x="16" y="55" width="125" height="3" rx="2" fill="#fbbf24" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.1s" fill="freeze" />
   </rect>
+  <circle cx="129" cy="68" r="3" fill="#fbbf24" opacity="0">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.4s" begin="0.1s" repeatCount="indefinite" />
+  </circle>
   <g opacity="0">
-    <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" stroke="#fbbf24" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" transform="translate(30,68) scale(0.6667)" />
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.12s" fill="freeze" />
+    <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" stroke="#fbbf24" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" transform="translate(30,70) scale(0.6667)" />
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.1s" fill="freeze" />
   </g>
-  <text x="79" y="108" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="800" fill="#f8fafc" opacity="0">273
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.2s" fill="freeze" />
+  <text x="78" y="112" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="800" fill="#f8fafc" opacity="0">273
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.18s" fill="freeze" />
   </text>
-  <text x="79" y="126" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#94a3b8" opacity="0">Total Stars
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.2s" fill="freeze" />
+  <text x="78" y="130" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#94a3b8" opacity="0">Total Stars
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.18s" fill="freeze" />
   </text>
-  <rect x="155" y="50" width="131" height="94" rx="8" fill="#140f28" stroke="#312554" stroke-width="1" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.2s" fill="freeze" />
+  <text x="78" y="144" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9" font-weight="600" fill="#fbbf24" opacity="0">COMMUNITY
+    <animate attributeName="opacity" from="0" to="0.85" dur="0.45s" begin="0.22s" fill="freeze" />
+  </text>
+  <rect x="155" y="54" width="129" height="104" rx="10" fill="#130f26" stroke="#2a1f47" stroke-width="1.2" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.18s" fill="freeze" />
   </rect>
-  <rect x="156" y="51" width="129" height="3" rx="2" fill="#06b6d4" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.2s" fill="freeze" />
+  <rect x="157" y="55" width="125" height="3" rx="2" fill="#06b6d4" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.18s" fill="freeze" />
   </rect>
+  <circle cx="270" cy="68" r="3" fill="#06b6d4" opacity="0">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.4s" begin="0.18s" repeatCount="indefinite" />
+  </circle>
   <g opacity="0">
-    <path d="M15 18H9M12 21V9M3 9V6a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v3" stroke="#06b6d4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" transform="translate(171,68) scale(0.6667)" />
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.2s" fill="freeze" />
+    <path d="M15 18H9M12 21V9M3 9V6a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v3" stroke="#06b6d4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" transform="translate(171,70) scale(0.6667)" />
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.18s" fill="freeze" />
   </g>
-  <text x="220" y="108" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="800" fill="#f8fafc" opacity="0">131
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.28s" fill="freeze" />
+  <text x="219" y="112" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="800" fill="#f8fafc" opacity="0">131
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.26s" fill="freeze" />
   </text>
-  <text x="220" y="126" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#94a3b8" opacity="0">Total Forks
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.28s" fill="freeze" />
+  <text x="219" y="130" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#94a3b8" opacity="0">Total Forks
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.26s" fill="freeze" />
   </text>
-  <rect x="296" y="50" width="131" height="94" rx="8" fill="#140f28" stroke="#312554" stroke-width="1" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.28s" fill="freeze" />
+  <text x="219" y="144" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9" font-weight="600" fill="#06b6d4" opacity="0">OPEN SOURCE
+    <animate attributeName="opacity" from="0" to="0.85" dur="0.45s" begin="0.3s" fill="freeze" />
+  </text>
+  <rect x="296" y="54" width="129" height="104" rx="10" fill="#130f26" stroke="#2a1f47" stroke-width="1.2" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.26s" fill="freeze" />
   </rect>
-  <rect x="297" y="51" width="129" height="3" rx="2" fill="#a855f7" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.28s" fill="freeze" />
+  <rect x="298" y="55" width="125" height="3" rx="2" fill="#a855f7" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.26s" fill="freeze" />
   </rect>
+  <circle cx="411" cy="68" r="3" fill="#a855f7" opacity="0">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.4s" begin="0.26s" repeatCount="indefinite" />
+  </circle>
   <g opacity="0">
-    <path d="M3 3h7v7H3zM14 3h7v7h-7zM3 14h7v7H3zM14 14h7v7h-7z" stroke="#a855f7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" transform="translate(312,68) scale(0.6667)" />
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.28s" fill="freeze" />
+    <path d="M3 3h7v7H3zM14 3h7v7h-7zM3 14h7v7H3zM14 14h7v7h-7z" stroke="#a855f7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" transform="translate(312,70) scale(0.6667)" />
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.26s" fill="freeze" />
   </g>
-  <text x="361" y="108" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="800" fill="#f8fafc" opacity="0">13
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.36000000000000004s" fill="freeze" />
+  <text x="360" y="112" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="800" fill="#f8fafc" opacity="0">13
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.34s" fill="freeze" />
   </text>
-  <text x="361" y="126" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#94a3b8" opacity="0">Repositories
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.36000000000000004s" fill="freeze" />
+  <text x="360" y="130" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#94a3b8" opacity="0">Public Repos
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.34s" fill="freeze" />
   </text>
-  <rect x="437" y="50" width="131" height="94" rx="8" fill="#140f28" stroke="#312554" stroke-width="1" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.36s" fill="freeze" />
+  <text x="360" y="144" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9" font-weight="600" fill="#a855f7" opacity="0">ACTIVE WORK
+    <animate attributeName="opacity" from="0" to="0.85" dur="0.45s" begin="0.38s" fill="freeze" />
+  </text>
+  <rect x="437" y="54" width="129" height="104" rx="10" fill="#130f26" stroke="#2a1f47" stroke-width="1.2" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.34s" fill="freeze" />
   </rect>
-  <rect x="438" y="51" width="129" height="3" rx="2" fill="#ec4899" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.36s" fill="freeze" />
+  <rect x="439" y="55" width="125" height="3" rx="2" fill="#ec4899" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.34s" fill="freeze" />
   </rect>
+  <circle cx="552" cy="68" r="3" fill="#ec4899" opacity="0">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.4s" begin="0.34s" repeatCount="indefinite" />
+  </circle>
   <g opacity="0">
-    <path d="M12 20V10M18 20V4M6 20v-4" stroke="#ec4899" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" transform="translate(453,68) scale(0.6667)" />
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.36s" fill="freeze" />
+    <path d="M12 20V10M18 20V4M6 20v-4" stroke="#ec4899" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" transform="translate(453,70) scale(0.6667)" />
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.34s" fill="freeze" />
   </g>
-  <text x="502" y="108" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="800" fill="#f8fafc" opacity="0">233
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.44s" fill="freeze" />
+  <text x="501" y="112" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="800" fill="#f8fafc" opacity="0">233
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.42000000000000004s" fill="freeze" />
   </text>
-  <text x="502" y="126" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#94a3b8" opacity="0">Contributions
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.44s" fill="freeze" />
+  <text x="501" y="130" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#94a3b8" opacity="0">Contributions
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.42000000000000004s" fill="freeze" />
   </text>
-  <rect x="578" y="50" width="131" height="94" rx="8" fill="#140f28" stroke="#312554" stroke-width="1" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.44s" fill="freeze" />
+  <text x="501" y="144" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9" font-weight="600" fill="#ec4899" opacity="0">YEAR ACTIVITY
+    <animate attributeName="opacity" from="0" to="0.85" dur="0.45s" begin="0.46s" fill="freeze" />
+  </text>
+  <rect x="578" y="54" width="129" height="104" rx="10" fill="#130f26" stroke="#2a1f47" stroke-width="1.2" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.42s" fill="freeze" />
   </rect>
-  <rect x="579" y="51" width="129" height="3" rx="2" fill="#38bdf8" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.44s" fill="freeze" />
+  <rect x="580" y="55" width="125" height="3" rx="2" fill="#34d399" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.42s" fill="freeze" />
   </rect>
+  <circle cx="693" cy="68" r="3" fill="#34d399" opacity="0">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.4s" begin="0.42s" repeatCount="indefinite" />
+  </circle>
   <g opacity="0">
-    <path d="M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01" stroke="#38bdf8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" transform="translate(594,68) scale(0.6667)" />
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.44s" fill="freeze" />
+    <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z" stroke="#34d399" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" transform="translate(594,70) scale(0.6667)" />
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.42s" fill="freeze" />
   </g>
-  <text x="643" y="108" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="800" fill="#f8fafc" opacity="0">0d
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.52s" fill="freeze" />
+  <text x="642" y="112" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="800" fill="#f8fafc" opacity="0">6+ Bots
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.5s" fill="freeze" />
   </text>
-  <text x="643" y="126" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#94a3b8" opacity="0">Current Streak
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.52s" fill="freeze" />
+  <text x="642" y="130" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#94a3b8" opacity="0">Telegram Fleet
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.5s" fill="freeze" />
   </text>
-  <rect x="719" y="50" width="131" height="94" rx="8" fill="#140f28" stroke="#312554" stroke-width="1" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.52s" fill="freeze" />
+  <text x="642" y="144" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9" font-weight="600" fill="#34d399" opacity="0">HIGH UPTIME
+    <animate attributeName="opacity" from="0" to="0.85" dur="0.45s" begin="0.54s" fill="freeze" />
+  </text>
+  <rect x="719" y="54" width="129" height="104" rx="10" fill="#130f26" stroke="#2a1f47" stroke-width="1.2" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.5s" fill="freeze" />
   </rect>
-  <rect x="720" y="51" width="129" height="3" rx="2" fill="#c084fc" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.52s" fill="freeze" />
+  <rect x="721" y="55" width="125" height="3" rx="2" fill="#c084fc" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.5s" fill="freeze" />
   </rect>
+  <circle cx="834" cy="68" r="3" fill="#c084fc" opacity="0">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.4s" begin="0.5s" repeatCount="indefinite" />
+  </circle>
   <g opacity="0">
-    <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22" stroke="#c084fc" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" transform="translate(735,68) scale(0.6667)" />
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.52s" fill="freeze" />
+    <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22" stroke="#c084fc" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" transform="translate(735,70) scale(0.6667)" />
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.5s" fill="freeze" />
   </g>
-  <text x="784" y="108" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="800" fill="#f8fafc" opacity="0">6d
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.6s" fill="freeze" />
+  <text x="783" y="112" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="800" fill="#f8fafc" opacity="0">6d
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.58s" fill="freeze" />
   </text>
-  <text x="784" y="126" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#94a3b8" opacity="0">Longest Streak
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.6s" fill="freeze" />
+  <text x="783" y="130" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#94a3b8" opacity="0">Longest Streak
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.58s" fill="freeze" />
+  </text>
+  <text x="783" y="144" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9" font-weight="600" fill="#c084fc" opacity="0">CONSISTENCY
+    <animate attributeName="opacity" from="0" to="0.85" dur="0.45s" begin="0.62s" fill="freeze" />
   </text>
 </svg>

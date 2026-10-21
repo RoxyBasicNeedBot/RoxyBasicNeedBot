@@ -6,7 +6,7 @@ custom icons, neon cyberpunk colors, and SMIL animations.
 import os
 
 def xml_escape(t):
-    return t.replace('&','&amp;').replace('<','&lt;').replace('>','&gt;').replace('"','&quot;')
+    return str(t).replace('&','&amp;').replace('<','&lt;').replace('>','&gt;').replace('"','&quot;')
 
 def generate_info_card(output_path="info-card.svg", static_mode=False):
     is_static = os.environ.get("STATIC") == "1" or static_mode
@@ -21,6 +21,8 @@ def generate_info_card(output_path="info-card.svg", static_mode=False):
         "layers":   "M12 2l10 6.5-10 6.5L2 8.5zM2 15.5l10 6.5 10-6.5M2 11l10 6.5L22 11",
         "globe":    "M2 12a10 10 0 1 0 20 0A10 10 0 0 0 2 12zM12 2a14.5 14.5 0 0 1 0 20A14.5 14.5 0 0 1 12 2zM2 12h20",
         "arrow":    "M5 12h14M12 5l7 7-7 7",
+        "shield":   "M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z",
+        "youtube":  "M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33zM9.75 15.02V8.5l5.75 3.26-5.75 3.26z",
     }
 
     def icon_svg(key, ox, oy, size=13, color="#8b949e"):
@@ -30,47 +32,49 @@ def generate_info_card(output_path="info-card.svg", static_mode=False):
 
     # (icon_key, key_label, value_text, value_color, key_color, is_spacer)
     rows = [
-        ("terminal", "roxy",     "~ % neofetch --profile",       "#a855f7", "#a855f7", False),
-        ("user",     "User",     "RoxyBasicNeedBot ⚡",          "#f8fafc", "#06b6d4", False),
-        ("cpu",      "Role",     "Android & Bot Engineer",       "#f8fafc", "#06b6d4", False),
-        ("zap",      "Uptime",   "24/7  Active Cloud",           "#34d399", "#06b6d4", False),
-        ("terminal", "OS",       "Linux • Android • Windows",    "#f8fafc", "#06b6d4", False),
-        ("code",     "Core",     "Kotlin • Python",              "#f8fafc", "#06b6d4", False),
-        ("layers",   "Framework","Jetpack Compose • Pyrogram",   "#c084fc", "#06b6d4", False),
-        ("layers",   "Database", "MongoDB • Room DB",            "#c084fc", "#06b6d4", False),
-        (None,       "",         "",                             "",        "",        True),
-        ("zap",      "Android",  "Flare • KDownloader • Vivx",   "#f43f5e", "#f43f5e", False),
-        ("globe",    "Bots",     "4GB Rename • Video Leech",     "#ec4899", "#ec4899", False),
-        ("arrow",    "Telegram", "@roxybasicneedbot1",           "#38bdf8", "#38bdf8", False),
-        ("globe",    "Website",  "roxybasicneedbot.unaux.com",   "#38bdf8", "#38bdf8", False),
-        (None,       "",         "",                             "",        "",        True),
-        ("arrow",    "roxy",     "github ~ % _",                 "#a855f7", "#a855f7", False),
+        ("terminal", "roxy",      "~ % neofetch --profile",       "#a855f7", "#a855f7", False),
+        ("user",     "Identity",  "RoxyBasicNeedBot ⚡",          "#f8fafc", "#06b6d4", False),
+        ("cpu",      "Role",      "Android & Bot Architect",      "#f8fafc", "#06b6d4", False),
+        ("zap",      "Status",    "24/7 Active Bot Engine",       "#34d399", "#06b6d4", False),
+        ("terminal", "OS",        "Android 14 • Linux • Win 11",  "#f8fafc", "#06b6d4", False),
+        ("code",     "Core",      "Kotlin • Python 3.12",         "#f8fafc", "#06b6d4", False),
+        ("layers",   "Mobile",    "Jetpack Compose • Coroutines", "#c084fc", "#06b6d4", False),
+        ("layers",   "Backend",   "Pyrogram (MTProto) • MongoDB", "#c084fc", "#06b6d4", False),
+        (None,       "",          "",                             "",        "",        True),
+        ("zap",      "Fleet",     "4GB Rename • Leech Video",     "#f43f5e", "#f43f5e", False),
+        ("layers",   "Libraries", "Flare (Toasts) • KDownloader", "#ec4899", "#ec4899", False),
+        ("arrow",    "Telegram",  "@roxybasicneedbot1",           "#38bdf8", "#38bdf8", False),
+        ("youtube",  "YouTube",   "@roxybasicneedbot",            "#ef4444", "#ef4444", False),
+        ("globe",    "Website",   "roxybasicneedbot.unaux.com",   "#38bdf8", "#38bdf8", False),
+        (None,       "",          "",                             "",        "",        True),
+        ("arrow",    "roxy",      "github ~ % _",                 "#a855f7", "#a855f7", False),
     ]
 
-    line_h = 30
-    spacer_h = 10
-    start_y = 70
+    line_h = 28
+    spacer_h = 8
+    start_y = 66
 
     y_positions = []
     y = start_y
     for row in rows:
         y_positions.append(y)
-        if row[5]:  # spacer
+        if row[5]:
             y += spacer_h
         else:
             y += line_h
 
     svg = []
     svg.append(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}">')
-    svg.append(f'  <rect width="{W}" height="{H}" rx="12" fill="#0d111a" stroke="#2e274a" stroke-width="1.5" />')
+    svg.append(f'  <rect width="{W}" height="{H}" rx="14" fill="#0d111b" stroke="#2e274a" stroke-width="1.5" />')
+
     # Terminal header bar
-    svg.append(f'  <rect x="0" y="0" width="{W}" height="40" rx="12" fill="#140f28" />')
+    svg.append(f'  <rect x="0" y="0" width="{W}" height="40" rx="14" fill="#140f28" />')
     svg.append(f'  <rect x="0" y="30" width="{W}" height="10" fill="#140f28" />')
     svg.append(f'  <rect x="0" y="39" width="{W}" height="1" fill="#382a5c" />')
-    svg.append(f'  <circle cx="20" cy="17" r="5.5" fill="#ff5f56" />')
-    svg.append(f'  <circle cx="40" cy="17" r="5.5" fill="#ffbd2e" />')
-    svg.append(f'  <circle cx="60" cy="17" r="5.5" fill="#27c93f" />')
-    svg.append(f'  <text x="82" y="22" font-family="-apple-system, BlinkMacSystemFont, \'Segoe UI\', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#a5b4fc">roxy@terminal: ~</text>')
+    svg.append(f'  <circle cx="20" cy="18" r="5.5" fill="#ff5f56" />')
+    svg.append(f'  <circle cx="40" cy="18" r="5.5" fill="#ffbd2e" />')
+    svg.append(f'  <circle cx="60" cy="18" r="5.5" fill="#27c93f" />')
+    svg.append(f'  <text x="82" y="23" font-family="-apple-system, BlinkMacSystemFont, \'Segoe UI\', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#c084fc">roxy@terminal: ~ (neofetch)</text>')
 
     anim_idx = 0
     for i, (ic, key, val, vcol, kcol, is_spacer) in enumerate(rows):
@@ -78,7 +82,7 @@ def generate_info_card(output_path="info-card.svg", static_mode=False):
         if is_spacer:
             continue
 
-        delay = round(0.08 + anim_idx * 0.05, 2)
+        delay = round(0.06 + anim_idx * 0.045, 2)
         anim_idx += 1
         op = '0' if not is_static else '1'
 
@@ -88,24 +92,24 @@ def generate_info_card(output_path="info-card.svg", static_mode=False):
         # Icon
         if ic:
             svg.append(f'  <g opacity="{op}">')
-            svg.append(f'    {icon_svg(ic, 22, y - 10, size=13, color=kcol)}')
+            svg.append(f'    {icon_svg(ic, 20, y - 10, size=13, color=kcol)}')
             if not is_static:
                 svg.append(f'    {anim_tag(0.35, delay)}')
             svg.append(f'  </g>')
 
         # Key label
         if key:
-            svg.append(f'  <text x="42" y="{y}" font-family="-apple-system, BlinkMacSystemFont, \'Segoe UI\', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="{kcol}" opacity="{op}">{xml_escape(key)}')
+            svg.append(f'  <text x="40" y="{y}" font-family="-apple-system, BlinkMacSystemFont, \'Segoe UI\', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="{kcol}" opacity="{op}">{xml_escape(key)}')
             if not is_static:
                 svg.append(f'    {anim_tag(0.35, delay)}')
             svg.append(f'  </text>')
 
-        # Separator colon
+        # Colon separator
         if key and key not in ("roxy",):
-            svg.append(f'  <text x="138" y="{y}" font-family="SFMono-Regular, Consolas, \'Liberation Mono\', Menlo, monospace" font-size="13" fill="#382a5c" opacity="{op}">:</text>')
+            svg.append(f'  <text x="126" y="{y}" font-family="SFMono-Regular, Consolas, \'Liberation Mono\', Menlo, monospace" font-size="12.5" fill="#3d2c60" opacity="{op}">:</text>')
 
-        # Value
-        svg.append(f'  <text x="152" y="{y}" font-family="-apple-system, BlinkMacSystemFont, \'Segoe UI\', Helvetica, Arial, sans-serif" font-size="13" fill="{vcol}" opacity="{op}">{xml_escape(val)}')
+        # Value text
+        svg.append(f'  <text x="140" y="{y}" font-family="-apple-system, BlinkMacSystemFont, \'Segoe UI\', Helvetica, Arial, sans-serif" font-size="12.5" fill="{vcol}" opacity="{op}">{xml_escape(val)}')
         if not is_static:
             svg.append(f'    {anim_tag(0.35, delay)}')
         svg.append(f'  </text>')

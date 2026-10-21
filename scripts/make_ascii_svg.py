@@ -37,7 +37,7 @@ def image_to_ascii(image_path, target_width=88, char_aspect_ratio=0.47):
         
     return ascii_rows
 
-def make_svg(ascii_rows, output_path="avi-ascii.svg", text_color="#c9d1d9", bg_color="#0d1117"):
+def make_svg(ascii_rows, output_path="avi-ascii.svg", text_color="#e2e8f0", bg_color="#0d111b"):
     """
     Generates an animated, self-typing SVG from the ASCII rows.
     """
@@ -63,13 +63,13 @@ def make_svg(ascii_rows, output_path="avi-ascii.svg", text_color="#c9d1d9", bg_c
     svg = []
     svg.append(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {svg_width} {svg_height}" width="100%" height="100%">')
     svg.append('  <style>')
-    svg.append(f'    rect.bg {{ fill: {bg_color}; }}')
-    svg.append(f'    text.ascii {{ font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace; font-size: 7px; fill: {text_color}; white-space: pre; }}')
-    svg.append('    rect.cursor { fill: #a855f7; }')
+    svg.append(f'    rect.bg {{ fill: {bg_color}; stroke: #2e274a; stroke-width: 1.5; }}')
+    svg.append(f'    text.ascii {{ font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace; font-size: 7.2px; fill: {text_color}; white-space: pre; }}')
+    svg.append('    rect.cursor {{ fill: #06b6d4; }}')
     svg.append('  </style>')
     
     # Background
-    svg.append(f'  <rect class="bg" width="{svg_width}" height="{svg_height}" rx="6" />')
+    svg.append(f'  <rect class="bg" width="{svg_width}" height="{svg_height}" rx="14" />')
     
     # Define ClipPaths for each row
     svg.append('  <defs>')
