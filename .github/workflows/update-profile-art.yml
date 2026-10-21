@@ -1,0 +1,56 @@
+name: Update profile art
+
+"on":
+  schedule:
+    - cron: "17 6 * * *"   # ~06:17 UTC daily
+  workflow_dispatch: {}
+  push:
+    branches: [main, master]
+
+permissions:
+  contents: write
+
+jobs:
+  heatmap:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: actions/setup-python@v5
+        with:
+            python-version: "3.11"
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 pillow opencv-python-headless numpy
+          
+      - name: Fetch contributions
+        run: python scripts/fetch_contributions.py
+
+      - name: Fetch repository stats
+        run: python scripts/fetch_repo_stats.py
+
+      - name: Download Avatar & Prep
+        run: |
+          python scripts/download_pfp.py
+          python scripts/prep_photo.py || true
+          python scripts/make_ascii_svg.py || true
+
+      - name: Render all SVGs
+        run: |
+          python scripts/render_heatmap_svg.py
+          python scripts/render_repos_svg.py
+          python scripts/make_stats_card_svg.py
+          python scripts/make_lang_chart_svg.py
+          python scripts/make_matrix_svg.py
+          python scripts/make_info_card.py
+          python scripts/make_banner_svg.py
+          python scripts/make_skills_svg.py
+          python scripts/make_invaders_svg.py
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh profile art and stats [skip ci]"
+          file_pattern: "data/contributions.json data/repo_stats.json contrib-heatmap.svg repo-showcase.svg stats-card.svg lang-chart.svg matrix-rain.svg info-card.svg banner.svg skills.svg avi-ascii.svg commit-invaders.svg source-photo.jpg source-prepped.png"

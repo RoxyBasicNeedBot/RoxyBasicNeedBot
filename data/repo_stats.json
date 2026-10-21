@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Telegram-Bot-List",
+    "description": "A curated list of useful Telegram bots made by RoxyBasicNeedBot \u2014 updated regularly.",
+    "stars": 39,
+    "forks": 6,
+    "language": "Python",
+    "html_url": "https://github.com/RoxyBasicNeedBot/Telegram-Bot-List",
+    "updated_at": "2026-10-17T10:02:06Z"
+  },
+  {
+    "name": "TXT-TO-VIDEO-LEECH-UPLOADER",
+    "description": "Convert text to engaging videos, leech files from links, and upload instantly \u2014 all in one tool. Fast, simple, and reliable for creators, students, and daily use. \ud83d\ude80\ud83d\udcdc\ud83c\udfa5",
+    "stars": 34,
+    "forks": 64,
+    "language": "Python",
+    "html_url": "https://github.com/RoxyBasicNeedBot/TXT-TO-VIDEO-LEECH-UPLOADER",
+    "updated_at": "2026-10-17T06:58:57Z"
+  },
+  {
+    "name": "File-Rename-4GB-Bot-Auto-Rename-Bot",
+    "description": "\ud83e\udd16 Telegram bot to auto-rename files up to 4GB with custom patterns, thumbnail injection, metadata editing & multi-format support. Supports documents, videos & audio. Set rename rules once, bot handles the rest \u2014 built with Python, Pyrogram & MongoDB.",
+    "stars": 26,
+    "forks": 13,
+    "language": "Python",
+    "html_url": "https://github.com/RoxyBasicNeedBot/File-Rename-4GB-Bot-Auto-Rename-Bot",
+    "updated_at": "2026-10-17T13:14:19Z"
+  },
+  {
+    "name": "Zip-Maker-Bot-Zip-Creater-Bot",
+    "description": "\ud83d\ude80 Zip Maker Bot  The ultimate tool to compress, organize, and secure your files. Upload documents, media, or folders and get a compiled .zip file instantly! Supports passwords, custom thumbnails, and renaming.",
+    "stars": 25,
+    "forks": 21,
+    "language": "Python",
+    "html_url": "https://github.com/RoxyBasicNeedBot/Zip-Maker-Bot-Zip-Creater-Bot",
+    "updated_at": "2026-10-15T23:56:35Z"
+  },
+  {
+    "name": "RoxyBasicNeedBot",
+    "description": "",
+    "stars": 24,
+    "forks": 4,
+    "language": "Python",
+    "html_url": "https://github.com/RoxyBasicNeedBot/RoxyBasicNeedBot",
+    "updated_at": "2026-10-02T18:10:26Z"
+  },
+  {
+    "name": "Telegram-ID-User-Info-Quick-ID-Bot",
+    "description": "\u26a1\ufe0f A Telegram bot to instantly fetch your User ID, Username, and Account Info. Fast, lightweight, and easy to use.",
+    "stars": 23,
+    "forks": 10,
+    "language": "Python",
+    "html_url": "https://github.com/RoxyBasicNeedBot/Telegram-ID-User-Info-Quick-ID-Bot",
+    "updated_at": "2026-08-02T17:03:39Z"
+  },
+  {
+    "name": "qeqe",
+    "description": "",
+    "stars": 21,
+    "forks": 0,
+    "language": "Python",
+    "html_url": "https://github.com/RoxyBasicNeedBot/qeqe",
+    "updated_at": "2026-08-28T17:30:06Z"
+  },
+  {
+    "name": "PDF-TOOL-BOT",
+    "description": "\ud83c\udfaf All-in-one PDF assistant: \u2022 Convert images to PDF \u2022 Compress & optimize \u2022 Split, merge & extract \u2022 Add watermarks & stamps \u2022 Lock or unlock files \u2022 Search a vast book catalog  Drop a document or use a com",
+    "stars": 20,
+    "forks": 13,
+    "language": "Python",
+    "html_url": "https://github.com/RoxyBasicNeedBot/PDF-TOOL-BOT",
+    "updated_at": "2026-10-18T16:57:57Z"
+  },
+  {
+    "name": "KDownloader",
+    "description": "\u26a1 KDownloader \u2014 A modern Kotlin-first download engine for Android. Parallel chunk downloading, Flow-based state, WorkManager persistence & Compose-ready UI components.",
+    "stars": 20,
+    "forks": 0,
+    "language": "Kotlin",
+    "html_url": "https://github.com/RoxyBasicNeedBot/KDownloader",
+    "updated_at": "2026-10-17T00:20:49Z"
+  },
+  {
+    "name": "Flare",
+    "description": "\ud83d\udd25 Flare \u2014 Beautiful, expressive alerts & toasts for Android. Supports Jetpack Compose + View system, queue management, swipe-to-dismiss, action buttons & more.",
+    "stars": 17,
+    "forks": 0,
+    "language": "Kotlin",
+    "html_url": "https://github.com/RoxyBasicNeedBot/Flare",
+    "updated_at": "2026-08-02T17:03:32Z"
+  },
+  {
+    "name": "ROXY-VIDEO-PLAYER-VLC-PLAYER",
+    "description": "",
+    "stars": 15,
+    "forks": 0,
+    "language": "Python",
+    "html_url": "https://github.com/RoxyBasicNeedBot/ROXY-VIDEO-PLAYER-VLC-PLAYER",
+    "updated_at": "2026-08-02T17:03:40Z"
+  },
+  {
+    "name": "Vivx",
+    "description": "A lightweight Kotlin DSL that sits on top of Jetpack Compose, cutting down boilerplate for common UI patterns without replacing Compose itself. Full Compose interop \u2014 drop into any existing Compose codebase.",
+    "stars": 7,
+    "forks": 0,
+    "language": "Kotlin",
+    "html_url": "https://github.com/RoxyBasicNeedBot/Vivx",
+    "updated_at": "2026-09-23T17:41:55Z"
+  },
+  {
+    "name": "PDF-Toolkit",
+    "description": "\ud83d\udcc4 An all-in-one PDF Toolkit for Android, built with Kotlin. Easily merge, split, compress, convert, rotate, and manage PDF files with a simple and user-friendly interface.",
+    "stars": 2,
+    "forks": 0,
+    "language": "Kotlin",
+    "html_url": "https://github.com/RoxyBasicNeedBot/PDF-Toolkit",
+    "updated_at": "2026-10-19T05:43:42Z"
+  }
+]
