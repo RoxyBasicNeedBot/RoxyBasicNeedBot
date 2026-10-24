@@ -12,12 +12,12 @@
   </text>
   <rect x="180" y="62" width="560" height="22" rx="11" fill="#140f28" stroke="#312554" stroke-width="1" />
   <rect x="180" y="62" width="0" height="22" rx="11" fill="#38bdf8">
-    <animate attributeName="width" from="0" to="509.2" dur="0.8s" begin="0.08s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1" />
+    <animate attributeName="width" from="0" to="508.7" dur="0.8s" begin="0.08s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1" />
   </rect>
   <circle cx="166" cy="73" r="5" fill="#38bdf8" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.08s" fill="freeze" />
   </circle>
-  <text x="754" y="75" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#38bdf8" font-weight="700" opacity="0">90.9%
+  <text x="754" y="75" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#38bdf8" font-weight="700" opacity="0">90.8%
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.38s" fill="freeze" />
   </text>
   <text x="30" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#f1f5f9" text-anchor="start" opacity="0">Kotlin
@@ -25,12 +25,12 @@
   </text>
   <rect x="180" y="96" width="560" height="22" rx="11" fill="#140f28" stroke="#312554" stroke-width="1" />
   <rect x="180" y="96" width="0" height="22" rx="11" fill="#a855f7">
-    <animate attributeName="width" from="0" to="50.8" dur="0.8s" begin="0.16s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1" />
+    <animate attributeName="width" from="0" to="51.3" dur="0.8s" begin="0.16s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1" />
   </rect>
   <circle cx="166" cy="107" r="5" fill="#a855f7" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.16s" fill="freeze" />
   </circle>
-  <text x="754" y="109" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#a855f7" font-weight="700" opacity="0">9.1%
+  <text x="754" y="109" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#a855f7" font-weight="700" opacity="0">9.2%
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.45999999999999996s" fill="freeze" />
   </text>
 </svg>

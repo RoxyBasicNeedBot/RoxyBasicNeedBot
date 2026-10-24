@@ -12,7 +12,7 @@
     "name": "TXT-TO-VIDEO-LEECH-UPLOADER",
     "description": "Convert text to engaging videos, leech files from links, and upload instantly \u2014 all in one tool. Fast, simple, and reliable for creators, students, and daily use. \ud83d\ude80\ud83d\udcdc\ud83c\udfa5",
     "stars": 34,
-    "forks": 64,
+    "forks": 65,
     "language": "Python",
     "html_url": "https://github.com/RoxyBasicNeedBot/TXT-TO-VIDEO-LEECH-UPLOADER",
     "updated_at": "2026-10-17T06:58:57Z"
@@ -42,7 +42,7 @@
     "forks": 4,
     "language": "Python",
     "html_url": "https://github.com/RoxyBasicNeedBot/RoxyBasicNeedBot",
-    "updated_at": "2026-10-22T11:56:03Z"
+    "updated_at": "2026-10-23T11:42:29Z"
   },
   {
     "name": "Telegram-ID-User-Info-Quick-ID-Bot",
@@ -110,10 +110,19 @@
   {
     "name": "PDF-Toolkit",
     "description": "\ud83d\udcc4 An all-in-one PDF Toolkit for Android, built with Kotlin. Easily merge, split, compress, convert, rotate, and manage PDF files with a simple and user-friendly interface.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "language": "Kotlin",
     "html_url": "https://github.com/RoxyBasicNeedBot/PDF-Toolkit",
-    "updated_at": "2026-10-19T05:43:42Z"
+    "updated_at": "2026-10-24T04:31:12Z"
+  },
+  {
+    "name": "Krypton-Player",
+    "description": "\ud83c\udfac The Smoothest Telegram Video Player With Direct Streaming, Downloads and Liquid Glass UI for Android! ",
+    "stars": 2,
+    "forks": 0,
+    "language": "Python",
+    "html_url": "https://github.com/RoxyBasicNeedBot/Krypton-Player",
+    "updated_at": "2026-10-24T04:31:05Z"
   }
 ]
