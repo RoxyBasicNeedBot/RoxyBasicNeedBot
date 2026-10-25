@@ -24,7 +24,7 @@
     <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" stroke="#fbbf24" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" transform="translate(30,70) scale(0.6667)" />
     <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.1s" fill="freeze" />
   </g>
-  <text x="78" y="112" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="800" fill="#f8fafc" opacity="0">277
+  <text x="78" y="112" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="800" fill="#f8fafc" opacity="0">278
     <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.18s" fill="freeze" />
   </text>
   <text x="78" y="130" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#94a3b8" opacity="0">Total Stars
@@ -46,7 +46,7 @@
     <path d="M15 18H9M12 21V9M3 9V6a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v3" stroke="#06b6d4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" transform="translate(171,70) scale(0.6667)" />
     <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.18s" fill="freeze" />
   </g>
-  <text x="219" y="112" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="800" fill="#f8fafc" opacity="0">133
+  <text x="219" y="112" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="800" fill="#f8fafc" opacity="0">132
     <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.26s" fill="freeze" />
   </text>
   <text x="219" y="130" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#94a3b8" opacity="0">Total Forks
@@ -90,7 +90,7 @@
     <path d="M12 20V10M18 20V4M6 20v-4" stroke="#ec4899" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" transform="translate(453,70) scale(0.6667)" />
     <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.34s" fill="freeze" />
   </g>
-  <text x="501" y="112" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="800" fill="#f8fafc" opacity="0">244
+  <text x="501" y="112" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="800" fill="#f8fafc" opacity="0">213
     <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.42000000000000004s" fill="freeze" />
   </text>
   <text x="501" y="130" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#94a3b8" opacity="0">Contributions

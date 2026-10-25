@@ -2,11 +2,11 @@
   {
     "name": "Telegram-Bot-List",
     "description": "A curated list of useful Telegram bots made by RoxyBasicNeedBot \u2014 updated regularly.",
-    "stars": 40,
+    "stars": 41,
     "forks": 6,
     "language": "Python",
     "html_url": "https://github.com/RoxyBasicNeedBot/Telegram-Bot-List",
-    "updated_at": "2026-10-22T21:41:50Z"
+    "updated_at": "2026-10-24T11:35:59Z"
   },
   {
     "name": "TXT-TO-VIDEO-LEECH-UPLOADER",
@@ -21,10 +21,10 @@
     "name": "File-Rename-4GB-Bot-Auto-Rename-Bot",
     "description": "\ud83e\udd16 Telegram bot to auto-rename files up to 4GB with custom patterns, thumbnail injection, metadata editing & multi-format support. Supports documents, videos & audio. Set rename rules once, bot handles the rest \u2014 built with Python, Pyrogram & MongoDB.",
     "stars": 26,
-    "forks": 14,
+    "forks": 13,
     "language": "Python",
     "html_url": "https://github.com/RoxyBasicNeedBot/File-Rename-4GB-Bot-Auto-Rename-Bot",
-    "updated_at": "2026-10-17T13:14:19Z"
+    "updated_at": "2026-10-25T09:11:19Z"
   },
   {
     "name": "Zip-Maker-Bot-Zip-Creater-Bot",
@@ -42,7 +42,7 @@
     "forks": 4,
     "language": "Python",
     "html_url": "https://github.com/RoxyBasicNeedBot/RoxyBasicNeedBot",
-    "updated_at": "2026-10-23T11:42:29Z"
+    "updated_at": "2026-10-24T11:04:33Z"
   },
   {
     "name": "Telegram-ID-User-Info-Quick-ID-Bot",

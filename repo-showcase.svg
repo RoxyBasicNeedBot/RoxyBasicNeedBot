@@ -142,7 +142,7 @@
     <path d="M6 3a3 3 0 1 0 0 6 3 3 0 0 0 0-6zm6 18a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm6-18a3 3 0 1 0 0 6 3 3 0 0 0 0-6zM6 9v3a3 3 0 0 0 3 3h6a3 3 0 0 0 3-3V9" stroke="#94a3b8" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round" transform="translate(359,322) scale(0.5000)" />
     <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.18s" fill="freeze" />
   </g>
-  <text x="375" y="334" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#94a3b8" opacity="0">14
+  <text x="375" y="334" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#94a3b8" opacity="0">13
     <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.18s" fill="freeze" />
   </text>
   <rect x="445" y="210" width="405" height="138" rx="10" fill="#130f26" stroke="#291f45" stroke-width="1.2" opacity="0">
