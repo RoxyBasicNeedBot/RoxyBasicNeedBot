@@ -42,7 +42,7 @@
     "forks": 4,
     "language": "Python",
     "html_url": "https://github.com/RoxyBasicNeedBot/RoxyBasicNeedBot",
-    "updated_at": "2026-11-03T14:19:26Z"
+    "updated_at": "2026-11-04T14:36:03Z"
   },
   {
     "name": "Telegram-ID-User-Info-Quick-ID-Bot",
@@ -54,6 +54,15 @@
     "updated_at": "2026-08-02T17:03:39Z"
   },
   {
+    "name": "PDF-TOOL-BOT",
+    "description": "\ud83c\udfaf All-in-one PDF assistant: \u2022 Convert images to PDF \u2022 Compress & optimize \u2022 Split, merge & extract \u2022 Add watermarks & stamps \u2022 Lock or unlock files \u2022 Search a vast book catalog  Drop a document or use a com",
+    "stars": 21,
+    "forks": 13,
+    "language": "Python",
+    "html_url": "https://github.com/RoxyBasicNeedBot/PDF-TOOL-BOT",
+    "updated_at": "2026-11-04T21:23:16Z"
+  },
+  {
     "name": "qeqe",
     "description": "",
     "stars": 21,
@@ -61,15 +70,6 @@
     "language": "Python",
     "html_url": "https://github.com/RoxyBasicNeedBot/qeqe",
     "updated_at": "2026-08-28T17:30:06Z"
-  },
-  {
-    "name": "PDF-TOOL-BOT",
-    "description": "\ud83c\udfaf All-in-one PDF assistant: \u2022 Convert images to PDF \u2022 Compress & optimize \u2022 Split, merge & extract \u2022 Add watermarks & stamps \u2022 Lock or unlock files \u2022 Search a vast book catalog  Drop a document or use a com",
-    "stars": 20,
-    "forks": 13,
-    "language": "Python",
-    "html_url": "https://github.com/RoxyBasicNeedBot/PDF-TOOL-BOT",
-    "updated_at": "2026-10-18T16:57:57Z"
   },
   {
     "name": "KDownloader",
