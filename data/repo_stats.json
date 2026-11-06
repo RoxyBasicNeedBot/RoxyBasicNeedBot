@@ -12,7 +12,7 @@
     "name": "TXT-TO-VIDEO-LEECH-UPLOADER",
     "description": "Convert text to engaging videos, leech files from links, and upload instantly \u2014 all in one tool. Fast, simple, and reliable for creators, students, and daily use. \ud83d\ude80\ud83d\udcdc\ud83c\udfa5",
     "stars": 35,
-    "forks": 68,
+    "forks": 67,
     "language": "Python",
     "html_url": "https://github.com/RoxyBasicNeedBot/TXT-TO-VIDEO-LEECH-UPLOADER",
     "updated_at": "2026-11-02T04:13:24Z"
@@ -21,7 +21,7 @@
     "name": "File-Rename-4GB-Bot-Auto-Rename-Bot",
     "description": "\ud83e\udd16 Telegram bot to auto-rename files up to 4GB with custom patterns, thumbnail injection, metadata editing & multi-format support. Supports documents, videos & audio. Set rename rules once, bot handles the rest \u2014 built with Python, Pyrogram & MongoDB.",
     "stars": 26,
-    "forks": 13,
+    "forks": 11,
     "language": "Python",
     "html_url": "https://github.com/RoxyBasicNeedBot/File-Rename-4GB-Bot-Auto-Rename-Bot",
     "updated_at": "2026-10-25T09:11:19Z"
@@ -30,7 +30,7 @@
     "name": "Zip-Maker-Bot-Zip-Creater-Bot",
     "description": "\ud83d\ude80 Zip Maker Bot  The ultimate tool to compress, organize, and secure your files. Upload documents, media, or folders and get a compiled .zip file instantly! Supports passwords, custom thumbnails, and renaming.",
     "stars": 25,
-    "forks": 22,
+    "forks": 21,
     "language": "Python",
     "html_url": "https://github.com/RoxyBasicNeedBot/Zip-Maker-Bot-Zip-Creater-Bot",
     "updated_at": "2026-10-15T23:56:35Z"
@@ -42,13 +42,13 @@
     "forks": 4,
     "language": "Python",
     "html_url": "https://github.com/RoxyBasicNeedBot/RoxyBasicNeedBot",
-    "updated_at": "2026-11-04T14:36:03Z"
+    "updated_at": "2026-11-05T14:42:12Z"
   },
   {
     "name": "Telegram-ID-User-Info-Quick-ID-Bot",
     "description": "\u26a1\ufe0f A Telegram bot to instantly fetch your User ID, Username, and Account Info. Fast, lightweight, and easy to use.",
     "stars": 23,
-    "forks": 10,
+    "forks": 8,
     "language": "Python",
     "html_url": "https://github.com/RoxyBasicNeedBot/Telegram-ID-User-Info-Quick-ID-Bot",
     "updated_at": "2026-08-02T17:03:39Z"
@@ -57,7 +57,7 @@
     "name": "PDF-TOOL-BOT",
     "description": "\ud83c\udfaf All-in-one PDF assistant: \u2022 Convert images to PDF \u2022 Compress & optimize \u2022 Split, merge & extract \u2022 Add watermarks & stamps \u2022 Lock or unlock files \u2022 Search a vast book catalog  Drop a document or use a com",
     "stars": 21,
-    "forks": 13,
+    "forks": 12,
     "language": "Python",
     "html_url": "https://github.com/RoxyBasicNeedBot/PDF-TOOL-BOT",
     "updated_at": "2026-11-04T21:23:16Z"
