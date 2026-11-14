@@ -20,11 +20,11 @@
   {
     "name": "File-Rename-4GB-Bot-Auto-Rename-Bot",
     "description": "\ud83e\udd16 Telegram bot to auto-rename files up to 4GB with custom patterns, thumbnail injection, metadata editing & multi-format support. Supports documents, videos & audio. Set rename rules once, bot handles the rest \u2014 built with Python, Pyrogram & MongoDB.",
-    "stars": 26,
+    "stars": 27,
     "forks": 11,
     "language": "Python",
     "html_url": "https://github.com/RoxyBasicNeedBot/File-Rename-4GB-Bot-Auto-Rename-Bot",
-    "updated_at": "2026-10-25T09:11:19Z"
+    "updated_at": "2026-11-14T08:00:32Z"
   },
   {
     "name": "Zip-Maker-Bot-Zip-Creater-Bot",
@@ -108,6 +108,15 @@
     "updated_at": "2026-09-23T17:41:55Z"
   },
   {
+    "name": "Krypton-Player",
+    "description": "\ud83c\udfac The Smoothest Telegram Video Player With Direct Streaming, Downloads and Liquid Glass UI for Android! ",
+    "stars": 3,
+    "forks": 0,
+    "language": "Python",
+    "html_url": "https://github.com/RoxyBasicNeedBot/Krypton-Player",
+    "updated_at": "2026-11-14T04:50:13Z"
+  },
+  {
     "name": "PDF-Toolkit",
     "description": "\ud83d\udcc4 An all-in-one PDF Toolkit for Android, built with Kotlin. Easily merge, split, compress, convert, rotate, and manage PDF files with a simple and user-friendly interface.",
     "stars": 3,
@@ -115,14 +124,5 @@
     "language": "Kotlin",
     "html_url": "https://github.com/RoxyBasicNeedBot/PDF-Toolkit",
     "updated_at": "2026-10-29T16:16:03Z"
-  },
-  {
-    "name": "Krypton-Player",
-    "description": "\ud83c\udfac The Smoothest Telegram Video Player With Direct Streaming, Downloads and Liquid Glass UI for Android! ",
-    "stars": 2,
-    "forks": 0,
-    "language": "Python",
-    "html_url": "https://github.com/RoxyBasicNeedBot/Krypton-Player",
-    "updated_at": "2026-10-24T04:31:05Z"
   }
 ]
