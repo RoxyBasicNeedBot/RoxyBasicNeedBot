@@ -109,12 +109,12 @@
   },
   {
     "name": "Krypton-Player",
-    "description": "\ud83c\udfac The Smoothest Telegram Video Player With Direct Streaming, Downloads and Liquid Glass UI for Android! ",
+    "description": "An Android native video player \ud83c\udfac The Smoothest Telegram Video Player With Direct Streaming, Downloads and Liquid Glass UI for Android! ",
     "stars": 3,
     "forks": 0,
-    "language": "Python",
+    "language": "Kotlin",
     "html_url": "https://github.com/RoxyBasicNeedBot/Krypton-Player",
-    "updated_at": "2026-11-14T04:50:13Z"
+    "updated_at": "2026-11-15T12:18:13Z"
   },
   {
     "name": "PDF-Toolkit",
@@ -124,5 +124,14 @@
     "language": "Kotlin",
     "html_url": "https://github.com/RoxyBasicNeedBot/PDF-Toolkit",
     "updated_at": "2026-10-29T16:16:03Z"
+  },
+  {
+    "name": "NASA-TELEMETRY-WEB-PAGE",
+    "description": "",
+    "stars": 1,
+    "forks": 0,
+    "language": "TypeScript",
+    "html_url": "https://github.com/RoxyBasicNeedBot/NASA-TELEMETRY-WEB-PAGE",
+    "updated_at": "2026-11-15T13:28:01Z"
   }
 ]
