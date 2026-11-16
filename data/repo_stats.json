@@ -99,6 +99,15 @@
     "updated_at": "2026-08-02T17:03:40Z"
   },
   {
+    "name": "Krypton-Player",
+    "description": "An Android native video player \ud83c\udfac The Smoothest Telegram Video Player With Direct Streaming, Downloads and Liquid Glass UI for Android! ",
+    "stars": 9,
+    "forks": 6,
+    "language": "Kotlin",
+    "html_url": "https://github.com/RoxyBasicNeedBot/Krypton-Player",
+    "updated_at": "2026-11-16T15:20:22Z"
+  },
+  {
     "name": "Vivx",
     "description": "A lightweight Kotlin DSL that sits on top of Jetpack Compose, cutting down boilerplate for common UI patterns without replacing Compose itself. Full Compose interop \u2014 drop into any existing Compose codebase.",
     "stars": 7,
@@ -106,15 +115,6 @@
     "language": "Kotlin",
     "html_url": "https://github.com/RoxyBasicNeedBot/Vivx",
     "updated_at": "2026-09-23T17:41:55Z"
-  },
-  {
-    "name": "Krypton-Player",
-    "description": "An Android native video player \ud83c\udfac The Smoothest Telegram Video Player With Direct Streaming, Downloads and Liquid Glass UI for Android! ",
-    "stars": 3,
-    "forks": 0,
-    "language": "Kotlin",
-    "html_url": "https://github.com/RoxyBasicNeedBot/Krypton-Player",
-    "updated_at": "2026-11-15T12:18:13Z"
   },
   {
     "name": "PDF-Toolkit",
