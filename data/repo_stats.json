@@ -2,11 +2,11 @@
   {
     "name": "Telegram-Bot-List",
     "description": "A curated list of useful Telegram bots made by RoxyBasicNeedBot \u2014 updated regularly.",
-    "stars": 41,
+    "stars": 42,
     "forks": 6,
     "language": "Python",
     "html_url": "https://github.com/RoxyBasicNeedBot/Telegram-Bot-List",
-    "updated_at": "2026-11-25T14:29:25Z"
+    "updated_at": "2026-11-26T10:16:16Z"
   },
   {
     "name": "TXT-TO-VIDEO-LEECH-UPLOADER",
@@ -101,11 +101,11 @@
   {
     "name": "Krypton-Player",
     "description": "An Android native video player \ud83c\udfac The Smoothest Telegram Video Player With Direct Streaming, Downloads and Liquid Glass UI for Android! ",
-    "stars": 10,
-    "forks": 7,
+    "stars": 11,
+    "forks": 8,
     "language": "Kotlin",
     "html_url": "https://github.com/RoxyBasicNeedBot/Krypton-Player",
-    "updated_at": "2026-11-24T20:34:38Z"
+    "updated_at": "2026-11-25T18:30:04Z"
   },
   {
     "name": "Vivx",
